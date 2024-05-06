@@ -1,8 +1,6 @@
-Creating an IPL analysis project in Tableau can be an exciting endeavor, allowing you to explore various aspects of the Indian Premier League and uncover insights from the data. Here's a step-by-step guide to help you get started:
 
-Step 1: Data Collection and Preparation
-1. Data Collection: Obtain IPL data from reliable sources like Kaggle, official IPL websites, or data repositories.
-2. Data Cleaning and Preparation: Clean the data to remove any inconsistencies, missing values, or duplicates. Prepare the data for analysis by structuring it in a format suitable for Tableau.
+
+
 
 Step 2: Import Data into Tableau
 1. Launch Tableau: Open Tableau Desktop or Tableau Public.
